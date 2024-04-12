@@ -79,3 +79,8 @@ h2 {
 p {
     margin-left: 25px; 
 }
+
+.search {
+    background-color: white;
+    padding: 20px 10px;
+}

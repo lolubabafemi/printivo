@@ -81,6 +81,7 @@ p {
 }
 
 .search {
+    margin-left: 25px;
     background-color: white;
     padding: 20px 10px;
 }

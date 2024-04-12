@@ -82,6 +82,7 @@ p {
 }
 
 .search {
+    border-radius: 30px;
     /* width: 50%; */
     margin-left: 25px;
     background-color: white;

@@ -82,7 +82,7 @@ p {
 }
 
 .search {
-    border-radius: 10px;
+    border-radius: 5px;
     width: 40%;
     margin-left: 25px;
     background-color: white;
@@ -106,5 +106,5 @@ p {
 .card {
     float: right;
     margin-top: -300px;
-    width: 30%;
+    width: 35%;
 }

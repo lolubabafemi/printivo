@@ -25,7 +25,9 @@ nav li {
 }
 
 .class {
+    margin-left: 100px;
+    background-color: white;
     border-color: black;
-    border-radius: 20px;
+    border-radius: 50px;
     padding: 10px 25px;
 }

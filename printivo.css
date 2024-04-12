@@ -50,10 +50,11 @@ nav li {
     list-style: none;
 }
 
-.landing li {
+.logo li {
     display: inline-block;
     margin-right: 25px;
     font-size: 0.8rem;
+    vertical-align: middle;
 }
 
 .product-list {

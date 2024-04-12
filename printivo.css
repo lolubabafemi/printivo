@@ -92,5 +92,6 @@ p {
 }
 
 .search li {
+    margin-left: 30px;
     display: inline-block;
 }

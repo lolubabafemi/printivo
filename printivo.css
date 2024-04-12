@@ -90,9 +90,9 @@ p {
 
 .search li {
     list-style: none;
+    display: inline-block;
 }
 
-.search li {
+.search-icon {
     margin-left: 30px;
-    display: inline-block;
 }

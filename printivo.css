@@ -106,4 +106,5 @@ p {
 .card {
     float: right;
     margin-top: -300px;
+    width: 30%;
 }

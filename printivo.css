@@ -81,6 +81,7 @@ p {
 }
 
 .search {
+    width: 50%;
     vertical-align: middle;
     margin-left: 25px;
     background-color: white;

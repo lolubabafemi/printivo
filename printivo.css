@@ -25,6 +25,7 @@ nav li {
 }
 
 .flag {
+    border: 0.5px;
     margin-left: 50px;
     background-color: white;
     border-color: black;

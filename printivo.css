@@ -89,10 +89,10 @@ p {
 
 .search li {
     list-style: none;
-    vertical-align: middle;
     display: inline-block;
 }
 
 .search-icon {
     margin-left: 30px;
+    vertical-align: middle;
 }

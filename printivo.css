@@ -82,8 +82,8 @@ p {
 }
 
 .search {
-    border-radius: 30px;
-    /* width: 50%; */
+    border-radius: 10px;
+    width: 40%;
     margin-left: 25px;
     background-color: white;
     padding-top: 5px;

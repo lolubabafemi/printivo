@@ -27,7 +27,9 @@ nav li {
 }
 
 .whatsapp {
-    margin-top: 10px;
+    /* margin-top: 10px; */
+
+    vertical-align: middle;
 }
 
 .flag {

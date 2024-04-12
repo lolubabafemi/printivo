@@ -53,5 +53,9 @@ nav li {
 .landing li {
     display: inline-block;
     margin-right: 25px;
-    font-size: 1rem;
+    font-size: 0.8rem;
+}
+
+.product-list {
+    margin-left: 200px;
 }

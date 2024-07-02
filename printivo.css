@@ -15,6 +15,9 @@ body {
 nav {
     padding: 5px 0px 5px 50px;
     background-color: #f7f6f4;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
 }
 
 nav ul {
@@ -68,6 +71,8 @@ nav li {
 .top-nav {
     align-items: center;
     display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
 }
 
 .top-nav ul {
@@ -85,6 +90,8 @@ nav li {
 .land {
     display: flex;
     margin-top: 100px;
+    justify-content: space-between;
+    padding-left: 100px;
 }
 
 
@@ -98,8 +105,8 @@ nav li {
 
 h1 {
     user-select: none;
-    font-size: 3.5rem;
-    margin-bottom: 10px;
+    font-size: 4.5rem;
+    margin-bottom: 20px;
     color: #384a62;
 }
 
@@ -143,10 +150,10 @@ input {
     margin-left: 150px;
 }
 
-.card {
+/* .card {
     float: right;
     width: 55%;
-}
+} */
 
 .display-products {
     /* margin-top: 100px; */
@@ -190,9 +197,12 @@ input {
     background: none;
     border: none;
     overflow: hidden;
+    transition: scale 200ms;
 }
-.picture :hover {
-    transform: scale(120%);
+
+
+.picture:hover {
+    scale: 120%;
 }
 
 
